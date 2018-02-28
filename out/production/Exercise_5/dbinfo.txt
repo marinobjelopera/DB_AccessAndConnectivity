@@ -1,0 +1,5 @@
+db:localhost
+user:root
+database:travel
+port:3306
+password:
